@@ -1,0 +1,8 @@
+{
+  "name": "sigap-rs",
+  "private": true,
+  "scripts": {
+    "build": "echo build success",
+    "start": "echo start"
+  }
+}
